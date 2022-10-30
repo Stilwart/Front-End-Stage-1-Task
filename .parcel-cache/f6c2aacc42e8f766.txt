@@ -1,4 +1,4 @@
-4539
+4546
 65C:\Users\aigbe\Desktop\link\node_modules\@lezer\lr\dist\index.cjs133115522533203101 0
 45C:\Users\aigbe\Desktop\link\package-lock.json133115532553115821 0
 65C:\Users\aigbe\Desktop\link\node_modules\abortcontroller-polyfill133115994833403021 1
@@ -7,7 +7,7 @@
 59C:\Users\aigbe\Desktop\link\node_modules\posthtml\readme.md133115522728847294 0
 72C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\regions\MD.js133115526884201993 0
 79C:\Users\aigbe\Desktop\link\node_modules\terser\node_modules\commander\index.js133115522678609234 0
-32C:\Users\aigbe\Desktop\link\dist133116034416559663 1
+32C:\Users\aigbe\Desktop\link\dist133116280634922727 1
 64C:\Users\aigbe\Desktop\link\node_modules\csso\lib\replace\atrule133115995773101610 1
 67C:\Users\aigbe\Desktop\link\node_modules\mdn-data\css\syntaxes.json133115523396636727 0
 70C:\Users\aigbe\Desktop\link\node_modules\entities\lib\maps\legacy.json133115523082216796 0
@@ -16,12 +16,12 @@
 90C:\Users\aigbe\Desktop\link\node_modules\htmlnano\lib\modules\minifyConditionalComments.js133115523158427658 0
 79C:\Users\aigbe\Desktop\link\node_modules\react-dom\umd\react-dom.development.js121436361000000000 0
 85C:\Users\aigbe\Desktop\link\node_modules\react\cjs\react.shared-subset.development.js121436361000000000 0
-38C:\Users\aigbe\Desktop\link\components133116020664842252 1
+38C:\Users\aigbe\Desktop\link\components133116273737006717 1
 68C:\Users\aigbe\Desktop\link\node_modules\@parcel\events\package.json133115523000214963 0
 85C:\Users\aigbe\Desktop\link\node_modules\@babel\runtime\helpers\regeneratorRuntime.js121012626000000000 0
 76C:\Users\aigbe\Desktop\link\node_modules\css-tree\lib\syntax\node\Comment.js133115523246761580 0
 59C:\Users\aigbe\Desktop\link\node_modules\htmlnano\README.md133115524341368647 0
-38C:\Users\aigbe\Desktop\link\.gitignore133056661430000000 0
+38C:\Users\aigbe\Desktop\link\.gitignore133116040947195298 0
 92C:\Users\aigbe\Desktop\link\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133115523285936422 0
 69C:\Users\aigbe\Desktop\link\node_modules\ordered-binary\tests\test.js133115522381091669 0
 58C:\Users\aigbe\Desktop\link\node_modules\parcel\lib\cli.js133115522719663328 0
@@ -50,7 +50,7 @@
 38C:\Users\aigbe\Desktop\link\index.html133116025089574333 0
 40C:\Users\aigbe\Desktop\link\node_modules133115997514505643 1
 76C:\Users\aigbe\Desktop\link\node_modules\css-tree\lib\syntax\node\AnPlusB.js133115522777997312 0
-35C:\Users\aigbe\Desktop\link\Main.js133116034370444585 0
+35C:\Users\aigbe\Desktop\link\Main.js133116279499242430 0
 104C:\Users\aigbe\Desktop\link\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133115523418824787 0
 55C:\Users\aigbe\Desktop\link\node_modules\domelementtype133115995819951595 1
 51C:\Users\aigbe\Desktop\link\node_modules\css-select133115995545351531 1
@@ -767,6 +767,7 @@
 100C:\Users\aigbe\Desktop\link\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133115523719842431 0
 71C:\Users\aigbe\Desktop\link\node_modules\xxhash-wasm\umd\xxhash-wasm.js133115522582445114 0
 123C:\Users\aigbe\Desktop\link\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\main.js133115524020332803 0
+59C:\Users\aigbe\Desktop\link\dist\logo.36d2d48a.41b05a96.png133116279850951148 0
 87C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\features\css-font-stretch.js133115525265764177 0
 101C:\Users\aigbe\Desktop\link\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133115525442734807 0
 74C:\Users\aigbe\Desktop\link\node_modules\css-tree\lib\lexer\match-graph.js133115524450164384 0
@@ -1402,7 +1403,7 @@
 98C:\Users\aigbe\Desktop\link\node_modules\scheduler\cjs\scheduler-unstable_post_task.development.js121436361000000000 0
 75C:\Users\aigbe\Desktop\link\node_modules\@swc\helpers\src\_to_primitive.mjs133115525167891183 0
 72C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\regions\RS.js133115527485095283 0
-55C:\Users\aigbe\Desktop\link\dist\index.47ca9330.css.map133116033502466938 0
+55C:\Users\aigbe\Desktop\link\dist\index.47ca9330.css.map133116280634602757 0
 63C:\Users\aigbe\Desktop\link\node_modules\safe-buffer\index.d.ts133115522694398352 0
 130C:\Users\aigbe\Desktop\link\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json133115524651454112 0
 84C:\Users\aigbe\Desktop\link\node_modules\@babel\highlight\node_modules\color-convert133115992086296714 1
@@ -1422,6 +1423,7 @@
 60C:\Users\aigbe\Desktop\link\node_modules\parse-json\index.js133115522512340993 0
 71C:\Users\aigbe\Desktop\link\node_modules\@parcel\codeframe\package.json133115523456390647 0
 66C:\Users\aigbe\Desktop\link\node_modules\resolve-from\package.json133115522462472814 0
+50C:\Users\aigbe\Desktop\link\dist\Icon.41e35b0d.png133116279838260403 0
 57C:\Users\aigbe\Desktop\link\node_modules\clone\.npmignore133115522861692953 0
 86C:\Users\aigbe\Desktop\link\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js133115522832684696 0
 63C:\Users\aigbe\Desktop\link\node_modules\resolve-from\readme.md133115522610152964 0
@@ -3394,6 +3396,7 @@
 89C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\features\unhandledrejection.js133115528042771030 0
 110C:\Users\aigbe\Desktop\link\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\index.js133115523547555555 0
 94C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\features\upgradeinsecurerequests.js133115528049096832 0
+51C:\Users\aigbe\Desktop\link\dist\slack.a89aba9c.png133116279834061243 0
 98C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133115528057023808 0
 74C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\features\url.js133115528062863762 0
 66C:\Users\aigbe\Desktop\link\node_modules\@parcel\utils\src\blob.js133115522448396452 0
@@ -4114,6 +4117,7 @@
 68C:\Users\aigbe\Desktop\link\node_modules\@parcel\logger\package.json133115522467678600 0
 60C:\Users\aigbe\Desktop\link\node_modules\@parcel\logger\test133115993034470571 1
 87C:\Users\aigbe\Desktop\link\node_modules\@parcel\hash\parcel-hash.linux-arm64-musl.node133115523788254234 0
+49C:\Users\aigbe\Desktop\link\dist\I4G.a4301139.png133116279834081037 0
 67C:\Users\aigbe\Desktop\link\node_modules\@parcel\graph\package.json133115523168468856 0
 81C:\Users\aigbe\Desktop\link\node_modules\@parcel\graph\test\AdjacencyList.test.js133115522787670639 0
 80C:\Users\aigbe\Desktop\link\node_modules\@parcel\graph\test\ContentGraph.test.js133115522880021683 0
@@ -4532,9 +4536,12 @@
 56C:\Users\aigbe\Desktop\link\node_modules\.bin\terser.ps1133115529774711268 0
 46C:\Users\aigbe\Desktop\link\img\profileimg.jpg133112004112436473 0
 41C:\Users\aigbe\Desktop\link\img\slack.png133110842990018276 0
-51C:\Users\aigbe\Desktop\link\dist\index.47ca9330.css133116033499986921 0
-50C:\Users\aigbe\Desktop\link\dist\index.5481a9c2.js133116034408986365 0
-54C:\Users\aigbe\Desktop\link\dist\index.5481a9c2.js.map133116034416159644 0
-43C:\Users\aigbe\Desktop\link\dist\index.html133116032432077714 0
-56C:\Users\aigbe\Desktop\link\dist\profileimg.74333fdc.jpg133116032484072256 0
-40C:\Users\aigbe\Desktop\link\css\main.css133116033919712470 0
+50C:\Users\aigbe\Desktop\link\dist\icon.2e2781a2.png133116277565890638 0
+51C:\Users\aigbe\Desktop\link\dist\index.47ca9330.css133116280632172621 0
+50C:\Users\aigbe\Desktop\link\dist\index.5481a9c2.js133116279864921250 0
+54C:\Users\aigbe\Desktop\link\dist\index.5481a9c2.js.map133116279890571235 0
+43C:\Users\aigbe\Desktop\link\dist\index.html133116279864961190 0
+56C:\Users\aigbe\Desktop\link\dist\profileimg.74333fdc.jpg133116279897530339 0
+40C:\Users\aigbe\Desktop\link\css\main.css133116280576254690 0
+48C:\Users\aigbe\Desktop\link\components\footer.js133116278725880254 0
+47C:\Users\aigbe\Desktop\link\components\links.js133116277764535904 0
