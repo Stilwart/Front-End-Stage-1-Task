@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter";
+  line-height: 28px;
+  color: #101828;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 112px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 32px;
+
+  width: 100%;
+}
+
+/* PROFILE SECTION */
+.profile_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px 0;
+  gap: 24px;
+
+  width: 100%;
+}
+
+#profile__img {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+.handles {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#slack {
+  display: none;
+}
