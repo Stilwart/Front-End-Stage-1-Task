@@ -1,4 +1,4 @@
-4546
+4547
 65C:\Users\aigbe\Desktop\link\node_modules\@lezer\lr\dist\index.cjs133115522533203101 0
 45C:\Users\aigbe\Desktop\link\package-lock.json133115532553115821 0
 65C:\Users\aigbe\Desktop\link\node_modules\abortcontroller-polyfill133115994833403021 1
@@ -7,7 +7,7 @@
 59C:\Users\aigbe\Desktop\link\node_modules\posthtml\readme.md133115522728847294 0
 72C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\regions\MD.js133115526884201993 0
 79C:\Users\aigbe\Desktop\link\node_modules\terser\node_modules\commander\index.js133115522678609234 0
-32C:\Users\aigbe\Desktop\link\dist133116280634922727 1
+32C:\Users\aigbe\Desktop\link\dist133116286005769518 1
 64C:\Users\aigbe\Desktop\link\node_modules\csso\lib\replace\atrule133115995773101610 1
 67C:\Users\aigbe\Desktop\link\node_modules\mdn-data\css\syntaxes.json133115523396636727 0
 70C:\Users\aigbe\Desktop\link\node_modules\entities\lib\maps\legacy.json133115523082216796 0
@@ -21,7 +21,7 @@
 85C:\Users\aigbe\Desktop\link\node_modules\@babel\runtime\helpers\regeneratorRuntime.js121012626000000000 0
 76C:\Users\aigbe\Desktop\link\node_modules\css-tree\lib\syntax\node\Comment.js133115523246761580 0
 59C:\Users\aigbe\Desktop\link\node_modules\htmlnano\README.md133115524341368647 0
-38C:\Users\aigbe\Desktop\link\.gitignore133116040947195298 0
+38C:\Users\aigbe\Desktop\link\.gitignore133116284901058531 0
 92C:\Users\aigbe\Desktop\link\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133115523285936422 0
 69C:\Users\aigbe\Desktop\link\node_modules\ordered-binary\tests\test.js133115522381091669 0
 58C:\Users\aigbe\Desktop\link\node_modules\parcel\lib\cli.js133115522719663328 0
@@ -32,7 +32,7 @@
 81C:\Users\aigbe\Desktop\link\node_modules\react-dom\umd\react-dom.profiling.min.js121436361000000000 0
 86C:\Users\aigbe\Desktop\link\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs133115524995951167 0
 65C:\Users\aigbe\Desktop\link\node_modules\xxhash-wasm\package.json133115522647872050 0
-31C:\Users\aigbe\Desktop\link\css133116024785311563 1
+31C:\Users\aigbe\Desktop\link\css133116283131078008 1
 72C:\Users\aigbe\Desktop\link\node_modules\domelementtype\lib\esm\index.js133115522648340745 0
 62C:\Users\aigbe\Desktop\link\node_modules\posthtml\lib\index.js133115522597190112 0
 79C:\Users\aigbe\Desktop\link\node_modules\entities\lib\decode_codepoint.d.ts.map133115523164600926 0
@@ -47,7 +47,7 @@
 77C:\Users\aigbe\Desktop\link\node_modules\css-tree\lib\syntax\config\walker.js133115525004118551 0
 63C:\Users\aigbe\Desktop\link\node_modules\supports-color\license133115522456189857 0
 87C:\Users\aigbe\Desktop\link\node_modules\.bin\node-gyp-build-optional-packages-optional133115529774871580 0
-38C:\Users\aigbe\Desktop\link\index.html133116025089574333 0
+38C:\Users\aigbe\Desktop\link\index.html133116285333294993 0
 40C:\Users\aigbe\Desktop\link\node_modules133115997514505643 1
 76C:\Users\aigbe\Desktop\link\node_modules\css-tree\lib\syntax\node\AnPlusB.js133115522777997312 0
 35C:\Users\aigbe\Desktop\link\Main.js133116279499242430 0
@@ -990,7 +990,7 @@
 58C:\Users\aigbe\Desktop\link\node_modules\react-refresh\cjs133115996953877485 1
 63C:\Users\aigbe\Desktop\link\node_modules\svgo\lib\svgo\jsAPI.js133115523479318111 0
 80C:\Users\aigbe\Desktop\link\node_modules\@parcel\utils\test\input\config\.testrc133115522316840576 0
-51C:\Users\aigbe\Desktop\link\dist\index.a87231c7.css133116019782928446 0
+51C:\Users\aigbe\Desktop\link\dist\index.a87231c7.css133116285964869634 0
 68C:\Users\aigbe\Desktop\link\node_modules\type-fest\source\entry.d.ts133115523066393436 0
 69C:\Users\aigbe\Desktop\link\node_modules\type-fest\source\except.d.ts133115523095725209 0
 70C:\Users\aigbe\Desktop\link\node_modules\@lezer\common\dist\index.d.ts133115522824725996 0
@@ -2893,7 +2893,7 @@
 74C:\Users\aigbe\Desktop\link\node_modules\@parcel\workers\lib\WorkerFarm.js133115523751732312 0
 72C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\regions\MK.js133115526978232401 0
 96C:\Users\aigbe\Desktop\link\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133115522763140704 0
-55C:\Users\aigbe\Desktop\link\dist\index.a87231c7.css.map133116019786328642 0
+55C:\Users\aigbe\Desktop\link\dist\index.a87231c7.css.map133116285983719624 0
 72C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\regions\MM.js133115526982363568 0
 72C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\regions\MN.js133115526982685889 0
 72C:\Users\aigbe\Desktop\link\node_modules\caniuse-lite\data\regions\MO.js133115526982685889 0
@@ -4540,8 +4540,9 @@
 51C:\Users\aigbe\Desktop\link\dist\index.47ca9330.css133116280632172621 0
 50C:\Users\aigbe\Desktop\link\dist\index.5481a9c2.js133116279864921250 0
 54C:\Users\aigbe\Desktop\link\dist\index.5481a9c2.js.map133116279890571235 0
-43C:\Users\aigbe\Desktop\link\dist\index.html133116279864961190 0
+43C:\Users\aigbe\Desktop\link\dist\index.html133116285965329606 0
 56C:\Users\aigbe\Desktop\link\dist\profileimg.74333fdc.jpg133116279897530339 0
 40C:\Users\aigbe\Desktop\link\css\main.css133116280576254690 0
+43C:\Users\aigbe\Desktop\link\css\queries.css133116283797972814 0
 48C:\Users\aigbe\Desktop\link\components\footer.js133116278725880254 0
 47C:\Users\aigbe\Desktop\link\components\links.js133116277764535904 0
